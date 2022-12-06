@@ -1,0 +1,4 @@
+../Drivers/Simulink/rtGetInf.c:27:8:rtGetInf	32	static
+../Drivers/Simulink/rtGetInf.c:51:10:rtGetInfF	16	static
+../Drivers/Simulink/rtGetInf.c:62:8:rtGetMinusInf	32	static
+../Drivers/Simulink/rtGetInf.c:86:10:rtGetMinusInfF	16	static

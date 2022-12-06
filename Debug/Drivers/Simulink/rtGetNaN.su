@@ -1,0 +1,2 @@
+../Drivers/Simulink/rtGetNaN.c:27:8:rtGetNaN	32	static
+../Drivers/Simulink/rtGetNaN.c:51:10:rtGetNaNF	16	static
